@@ -1,0 +1,13 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">My App Portfolio</string>
+
+    <!-- app names -->
+    <string name="header">My Nanodegree Apps!</string>
+    <string name="app_one_name">popular movies</string>
+    <string name="app_two_name">stock hawk</string>
+    <string name="app_three_name">build it bigger</string>
+    <string name="app_four_name">make your app material</string>
+    <string name="app_five_name">go ubiquitous</string>
+    <string name="app_six_name">capstone</string>
+    <string name="format_toast">This button will launch my <xliff:g id="app">%1$s</xliff:g> app!</string>
+</resources>
